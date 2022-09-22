@@ -6,5 +6,4 @@ public class LockedMeApplication {
         FileService menu = new FileService();
         menu.openMainMenu();
     }
-
 }

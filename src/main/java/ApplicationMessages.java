@@ -3,6 +3,7 @@ public abstract class ApplicationMessages {
         public static final String OPENING_PROMPT =
                 "\n ******* LockedMe.com *******" +
                         "\n  ******** Welcome! ********";
+
         public static final String MAIN_MENU_PROMPT =
                 "\n MAIN MENU - Please type one of the options below:" +
                         "\n 1 -- List all existent files" +

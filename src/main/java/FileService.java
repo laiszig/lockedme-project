@@ -80,6 +80,7 @@ public class FileService {
             System.out.println("Please type a, b, c or d");
             openSecondMenu();
         }
+        openSecondMenu();
     }
 
     private void openAllFiles() {
@@ -128,6 +129,5 @@ public class FileService {
             }
         }
         System.out.println("File not found");
-
     }
 }
